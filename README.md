@@ -2,7 +2,7 @@
 This project provides a solid foundation r to understand core Laravel concepts and build a functional web application with an API.
 
 Why this works (as per your request):
-Laravel (MVC, Eloquent ORM):
+#Laravel (MVC, Eloquent ORM):
 MVC: We've separated concerns into Models (Post, User), Views (Blade files), and Controllers (PostController, Api/PostController).
 Eloquent ORM: We've used Eloquent for database interactions (Post::create(), Post::find(), $user->posts(), relationships belongsTo, hasMany).
 
